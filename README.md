@@ -1,1 +1,1 @@
-# Motivated-Deception-Corpus
+# Motivated Deception Corpus
